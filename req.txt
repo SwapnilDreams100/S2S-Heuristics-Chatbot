@@ -1,0 +1,8 @@
+requests
+tweepy
+textblob
+python-firebase
+nltk
+Pyrebase
+tensorflow
+tensorlayer
